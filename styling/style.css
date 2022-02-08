@@ -1,0 +1,34 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+#intro {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    font-size: 2em;
+    height: 20%;
+    width: 90%;
+    margin: 0 auto; 
+    
+}
+
+#intro img{
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: 40px;
+}
+
+h1 {
+    padding-bottom: 10px;
+    border-bottom: solid rgb(105,140,105);
+}
+h1:hover {
+    color: rgb(116, 116, 33);
+}
+#intro p{
+    font-style:italic;
+}
+
+
